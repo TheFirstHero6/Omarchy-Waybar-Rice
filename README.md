@@ -10,7 +10,9 @@ This is my ongoing and current setup for the waybar on Omarchy, meant to be pair
 **Installation** - 
 
 > git clone https://github.com/TheFirstHero6/Omarchy-Waybar-Rice
+
 > cd Omarchy-Waybare-Rice
+
 > add to your waybar config path e.g. ~/.config/waybar
 
 *Note*
